@@ -16,3 +16,7 @@ Under Tools > Board > Board Manager, add these boards
 
 Under Tools > Board, select esp32_bluepad32 > ESP 32 Dev Module
 
+<h2>Schematic and Gerber Files</h2>
+Gerber files can be used to manufacture printed circuit board by uploading to a site like https://jlcpcb.com/
+<img src="https://github.com/swholmstead/DumpTruck/blob/main/schematic.png" alt="Schematic" width=600>
+<img src="https://github.com/swholmstead/DumpTruck/blob/main/PCB.png" alt="PCB" width=400>
