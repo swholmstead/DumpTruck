@@ -5,7 +5,7 @@
 * Bill of Materials<br>
 * Schematic and Printed Circuit Board (PCB)<br>
 * Assembly Instructions<br>
-* [Arduino IDE](file:///docs/arduino.md)<br>
+* [Arduino IDE](docs/arduino.md)<br>
 
 <h2>Arduino IDE</h2>
 
