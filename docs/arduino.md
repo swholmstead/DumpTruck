@@ -16,4 +16,4 @@ Under Tools > Board, select esp32_bluepad32 > ESP 32 Dev Module
 Connect ESP32 Development Kit with USB cable
 Under Tools > Port, select COM port used
 
-Open .ino file and click right arrow on top tool bar to download code to ESP32
+Open DumpTruck_Bluepad.ino file and click right arrow on top tool bar to download code to ESP32
