@@ -8,5 +8,4 @@
 * Assembly Instructions
 * [Arduino IDE](docs/arduino.md)
 
-
-
+List of supported game controllers can be found here: [Bluetooth Controllers](https://bluepad32.readthedocs.io/en/latest/supported_gamepads/)
