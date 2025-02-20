@@ -23,7 +23,8 @@ ControllerPtr myController;
 
 #define throttleDeadZone 15
 #define steeringDeadZone 30
-#define steeringInitialPosition 105
+#define steeringInitialPosition 115
+#define steeringMaxSpeed 2
 #define bedDeadZone 20
 
 #define wiggleCountMax 6
@@ -150,10 +151,16 @@ void processSteering(int newValue) {
     newValue += steeringDeadZone;
   }
 
-  // calculate steering servo angle
-  steeringValue = (steeringInitialPosition - (newValue / 10));
+  // calculate target angle
+  int targetValue = steeringInitialPosition - (newValue / 10);
+  // calculate change angle
+  int delta = steeringValue - targetValue;
+  if (abs(delta) > steeringMaxSpeed) {
+    delta = steeringMaxSpeed * (delta > 0 ? 1 : -1);
+  }
+  // Serial.printf("steering: %d delta: %d\n", steeringValue, delta);
+  steeringValue -= delta;
   steeringServo.write(steeringValue);
-  //Serial.printf("steering: %d\n", steeringValue);
 }
 
 void processLights(bool buttonValue) {
