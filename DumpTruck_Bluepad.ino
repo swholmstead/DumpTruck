@@ -153,12 +153,11 @@ void processSteering(int newValue) {
 
   // calculate target angle
   int targetValue = steeringInitialPosition - (newValue / 10);
-  // calculate change angle
+  // calculate and limit change rate
   int delta = steeringValue - targetValue;
   if (abs(delta) > steeringMaxSpeed) {
     delta = steeringMaxSpeed * (delta > 0 ? 1 : -1);
   }
-  // Serial.printf("steering: %d delta: %d\n", steeringValue, delta);
   steeringValue -= delta;
   steeringServo.write(steeringValue);
 }
