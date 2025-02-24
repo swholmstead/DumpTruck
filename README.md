@@ -4,7 +4,7 @@
 <h2>Table of Contents</h2>
 
 * [Bill of Materials](docs/bom.md)
-* [Schematic and Printed Circuit Board](docs/schematic.md)
+* [Schematic and Printed Circuit Board](docs/schematics.md)
 * Assembly Instructions
 * [Arduino IDE](docs/arduino.md)
 
