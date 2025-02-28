@@ -1,5 +1,38 @@
 <h2>Assembly Instructions</h2>
-Start by assembling drive train.
+<h3>Trailer</h3>
+Add 300mm of wire with JST-XH connector to N20 55mm 12V lift motor.  Insert motor into swivel mount and firmly press in lift motor lock.
+Route wires through retainers towards cab. Insert M4 nut into lift motor shaft and screw onto lift motor.  Attach lift motor to trailer with M2.6 x 6mm screws (qty 2).
+
+Push motor gear onto N20 12V 200rpm motor.  Add 300mm of wire with JST-XH connector. Secure to trailer with motor lock and M2.6 x 6mm screws (qty 2).
+Route wires through retainers towards cab.
+
+Press in 6700-2RS bearing at front of trailer.
+
+<img src="https://github.com/swholmstead/DumpTruck/blob/main/docs/IMG_3445.JPEG" alt="Skidsteer" width=600 height=400>
+
+Using soldering iron or heat press, insert M4 insert nuts (qty 2) into ONE of the trailer axle mounts.  This will be the drive side with gears.
+These are where the 2 idler gears are attached.  Insert from the side AWAY from the bearings.
+
+<img src="https://github.com/swholmstead/DumpTruck/blob/main/docs/IMG_3441.JPEG" alt="Skidsteer" width=600 height=400>
+
+Firmly press 6700-2RS bearings into trailer axle mounts.
+
+<img src="https://github.com/swholmstead/DumpTruck/blob/main/docs/IMG_3444.JPEG" alt="Skidsteer" width=600 height=400>
+
+Assemble the drive train by pushing rear axles through the trailer axle mounts with an axle gear and secure axles with M2.6 x 6mm screws.
+I recommend using M2.6 x 8mm screws to go through axle gear into rear axle pieces.
+
+<img src="https://github.com/swholmstead/DumpTruck/blob/main/docs/IMG_3440.JPEG" alt="Skidsteer" width=600 height=400>
+
+Insert drive train into trailer and attach with M2.6 x 6mm screws.
+
+<img src="https://github.com/swholmstead/DumpTruck/blob/main/docs/IMG_3447.JPEG" alt="Skidsteer" width=600 height=400>
+
+<h3>Bed</h3>
+
+Attach bed at rear with M2.6 x 6mm screws.  Attach front of bed with M2.6 x 12mm screw.
+
+<img src="https://github.com/swholmstead/DumpTruck/blob/main/docs/IMG_3448.JPEG" alt="Skidsteer" width=600 height=400>
 
 <h3>Cab</h3>
 
@@ -9,6 +42,7 @@ Attach fenders with M2.6 x 6mm screws.
 <img src="https://github.com/swholmstead/DumpTruck/blob/main/docs/IMG_3453.JPEG" alt="Skidsteer" width=600 height=400>
 
 Firmly press 6700-2RS bearings into front axle mount.
+
 <img src="https://github.com/swholmstead/DumpTruck/blob/main/docs/IMG_3459.JPEG" alt="Skidsteer" width=600 height=400>
 
 Assemble front drive train with axle gear into axle mounts and secure with M2.6 x 6mm screws.  I recommend using M2.6 x 8mm screw through axle gear.
@@ -48,40 +82,6 @@ Plug in electronics and route wires through front gaps in circuit board.  Secure
 
 <img src="https://github.com/swholmstead/DumpTruck/blob/main/docs/IMG_3465.JPEG" alt="Skidsteer" width=600 height=400>
 
-<h3>Trailer</h3>
-Add 300mm of wire with JST-XH connector to N20 55mm 12V lift motor.  Insert motor into swivel mount and firmly press in lift motor lock.
-Route wires through retainers towards cab. Insert M4 nut into lift motor shaft and screw onto lift motor.  Attach lift motor to trailer with M2.6 x 6mm screws (qty 2).
-
-Push motor gear onto N20 12V 200rpm motor.  Add 300mm of wire with JST-XH connector. Secure to trailer with motor lock and M2.6 x 6mm screws (qty 2).
-Route wires through retainers towards cab.
-
-Press in 6700-2RS bearing at front of trailer.
-
-<img src="https://github.com/swholmstead/DumpTruck/blob/main/docs/IMG_3445.JPEG" alt="Skidsteer" width=600 height=400>
-
-Using soldering iron or heat press, insert M4 insert nuts (qty 2) into ONE of the trailer axle mounts.  This will be the drive side with gears.
-These are where the 2 idler gears are attached.  Insert from the side AWAY from the bearings.
-
-<img src="https://github.com/swholmstead/DumpTruck/blob/main/docs/IMG_3441.JPEG" alt="Skidsteer" width=600 height=400>
-
-Firmly press 6700-2RS bearings into trailer axle mounts.
-
-<img src="https://github.com/swholmstead/DumpTruck/blob/main/docs/IMG_3444.JPEG" alt="Skidsteer" width=600 height=400>
-
-Assemble the drive train by pushing rear axles through the trailer axle mounts with an axle gear and secure axles with M2.6 x 6mm screws.
-I recommend using M2.6 x 8mm screws to go through axle gear into rear axle pieces.
-
-<img src="https://github.com/swholmstead/DumpTruck/blob/main/docs/IMG_3440.JPEG" alt="Skidsteer" width=600 height=400>
-
-Insert drive train into trailer and attach with M2.6 x 6mm screws.
-
-<img src="https://github.com/swholmstead/DumpTruck/blob/main/docs/IMG_3447.JPEG" alt="Skidsteer" width=600 height=400>
-
-<h3>Bed</h3>
-
-Attach bed at rear with M2.6 x 6mm screws.  Attach front of bed with M2.6 x 12mm screw.
-
-<img src="https://github.com/swholmstead/DumpTruck/blob/main/docs/IMG_3448.JPEG" alt="Skidsteer" width=600 height=400>
 
 <h3>Hitch (optional)</h3>
 
