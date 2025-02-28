@@ -21,11 +21,11 @@ ControllerPtr myController;
 #define dpadright 4
 #define dpadLeft 8
 
-#define throttleDeadZone 15
+#define throttleDeadZone 30
 #define steeringDeadZone 30
 #define steeringInitialPosition 117
 #define steeringMaxSpeed 3
-#define bedDeadZone 20
+#define bedDeadZone 30
 
 #define wiggleCountMax 6
 
