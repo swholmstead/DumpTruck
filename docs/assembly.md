@@ -94,3 +94,6 @@ Attach trailer hitch to trailer with M2.6 x 6mm screws  Attach trailer rod to be
 
 Attach lift gate to bed with M2.6 x 6mm screws.  Attach lift chains from bed to trailer with M2.6 x 6mm screws.
 Lift gate will rise automatically when bed is raised.
+
+<img src="https://github.com/swholmstead/DumpTruck/blob/main/docs/IMG_3397.JPEG" alt="Skidsteer" width=600 height=400>
+<img src="https://github.com/swholmstead/DumpTruck/blob/main/docs/IMG_3398.JPEG" alt="Skidsteer" width=600 height=400>
