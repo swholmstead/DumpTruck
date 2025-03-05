@@ -22,6 +22,7 @@ ControllerPtr myController;
 #define dpadLeft 8
 
 #define throttleDeadZone 30
+#define throttleLowGear  6
 #define steeringDeadZone 30
 #define steeringInitialPosition 117
 #define steeringMaxSpeed 3
@@ -83,7 +84,7 @@ void processGamepad(ControllerPtr ctl) {
   //Steering
   processSteering(ctl->axisX());
   //Throttle
-  processThrottle(ctl->axisY());
+  processThrottle(ctl->axisY() / (ctl->l1() ? throttleLowGear : 1));
   //Rasing and lowering of bed
   processbed(ctl->axisRY());
   //Aux
