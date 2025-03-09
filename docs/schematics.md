@@ -10,6 +10,6 @@ It will automatically fill in most options once you have uploaded the file.  No 
 * "Mark on PCB" defaults to Order Number, but I like to Remove Mark, to keep the board clean. 
 
 <h2>Schematic</h2>
-<img src="https://github.com/swholmstead/DumpTruck/blob/main/docs/schematic.png" alt="Schematic" width=600>
+<img src="https://github.com/swholmstead/DumpTruck/blob/main/pictures/schematic.png" alt="Schematic" width=600>
 <h2>Printed Circuit Board</h2>
-<img src="https://github.com/swholmstead/DumpTruck/blob/main/docs/PCB.png" alt="PCB" width=400>
+<img src="https://github.com/swholmstead/DumpTruck/blob/main/pictures/PCB.png" alt="PCB" width=400>
