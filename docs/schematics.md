@@ -16,10 +16,7 @@ It will automatically fill in most options once you have uploaded the file.  No 
 
 <h2>Electronics assembly</h2>
 
-Solder all components on the PCB.
-
-<img src="https://github.com/swholmstead/DumpTruck/blob/main/pictures/IMG_3502.JPEG" alt="Buck Converter" width=400>
-<img src="https://github.com/swholmstead/DumpTruck/blob/main/pictures/IMG_3503.JPEG" alt="Buck Converter" width=400>
+Solder all socket components on the PCB.
 
 <h3>5V Buck Converter</h3>
 Assembly the 5V buck converter. Ensure that the 5V jumper has solder and you use an exacto knife to cut the trace above the ADJ jumper.
@@ -29,8 +26,6 @@ Assembly the 5V buck converter. Ensure that the 5V jumper has solder and you use
 Assembly the PCB, batteries, fuse, and 5V buck converter.  Turn on power and ensure buck converter is generating +5V.
 There are labeled test points on the STEER servo pins that you can use.
 
-<img src="https://github.com/swholmstead/DumpTruck/blob/main/pictures/IMG_3504.JPEG" alt="Buck Converter" width=400>
-
 <h3>DRV8833 Motor Drivers</h3>
 Assembly the DRV8833 Motor Driver boards.  Ensure that J2 jumper is soldered.
 
@@ -38,4 +33,5 @@ Assembly the DRV8833 Motor Driver boards.  Ensure that J2 jumper is soldered.
 
 Add DRV8833 boards and ESP32 board to PCB.  Ensure that all 3 LEDs illuminate when power is on.
 
-<img src="https://github.com/swholmstead/DumpTruck/blob/main/pictures/IMG_3505.JPEG" alt="Buck Converter" width=400>
+<img src="https://github.com/swholmstead/DumpTruck/blob/main/pictures/IMG_3528.JPEG" alt="Buck Converter" width=400>
+<img src="https://github.com/swholmstead/DumpTruck/blob/main/pictures/IMG_3527.JPEG" alt="Buck Converter" width=400>
