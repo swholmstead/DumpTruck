@@ -17,3 +17,12 @@ Connect ESP32 Development Kit with USB cable
 Under Tools > Port, select COM port used
 
 Open DumpTruck_Bluepad.ino file and click right arrow on top tool bar to download code to ESP32
+
+<h2>Controls</h2>
+
+* Left joystick y-axis controls speed and x-axis controls steering.
+* Right joystick y-axis controls dump bed.
+* "A" button turns lights on/off.
+* "B" button executes "wiggle" function, moving motors and flashing lights.  If you have more than one vehicle, the button helps you
+identify which vehicle is paired with this controller.
+* Left bumper (L1 button) puts drive train in "low gear".  This makes it easier to attach a trailer or perform more precise movements.
