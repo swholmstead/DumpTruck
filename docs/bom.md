@@ -14,6 +14,7 @@ If the links don't work, just search for the components from wherever you shop.
 * 5V Buck Converter [Amazon](https://www.amazon.com/dp/B0DGPZ91BD) [AliExpress](https://www.aliexpress.us/item/3256807692095306.html)
 * DRV8833 H-bridge (qty 2) [Amazon](https://www.amazon.com/dp/B0DB8CX8LK) [AliExpress](https://www.aliexpress.us/item/3256806096142480.html)
 * M4 Insert Nuts (qty 2) [Amazon](https://www.amazon.com/dp/B07LBQGZ6F) [AliExpress](https://www.aliexpress.us/item/3256805885174058.html)
+* PCB Headers 2.54mm pitch [Amazon](https://www.amazon.com/2-54MM-Breakaway-Connector-Arduino-Prototype/dp/B08DVGCTKT) [AliExpress](https://www.aliexpress.us/item/2255800687544049.html)
 * JST-XH connectors (qty 4) [Amazon](https://www.amazon.com/dp/B0D6KSMK1Q) [AliExpress](https://www.aliexpress.us/item/2251832479273592.html)
 * SS12D10 SPDT micro slide switch [Amazon](https://www.amazon.com/gp/product/B09R41P1JF) [AliExpress](https://www.aliexpress.us/item/2255800493933955.html)
 * BLX-A Fuse holder 5mm x 20mm  (qty 1) [Amazon](https://www.amazon.com/dp/B093FK3GB1) [AliExpress](https://www.aliexpress.us/item/3256808172588255.html)
