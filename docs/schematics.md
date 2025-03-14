@@ -18,6 +18,8 @@ It will automatically fill in most options once you have uploaded the file.  No 
 
 Solder all socket components on the PCB.
 
+<b>NOTE: Make sure to use the power switch standoff under the toggle switch to raise it so it can be operated without opening the covers.
+
 <h3>5V Buck Converter</h3>
 Assembly the 5V buck converter. Ensure that the 5V jumper has solder and you use an exacto knife to cut the trace above the ADJ jumper.
 
