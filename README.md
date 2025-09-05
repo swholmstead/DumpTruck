@@ -3,6 +3,7 @@
 
 <h2>Table of Contents</h2>
 
+* [3D Models](https://www.printables.com/model/1189649-3d-printed-rc-articulated-dump-truck)
 * [Bill of Materials](docs/bom.md)
 * [Schematic and Printed Circuit Board](docs/schematics.md)
 * [Assembly Instructions](docs/assembly.md)
