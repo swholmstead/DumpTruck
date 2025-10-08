@@ -1,6 +1,6 @@
 <h2>Assembly Instructions</h2>
 <h3>Trailer</h3>
-Add 300mm of wire with JST-XH connector to N20 55mm 12V lift motor.  Insert motor into swivel mount and firmly press in lift motor lock.
+Add 30 cm of wire with JST-XH connector to N20 55mm 12V lift motor.  Insert motor into swivel mount and firmly press in lift motor lock.
 Route wires through retainers towards cab. Insert M4 nut into lift motor shaft and screw onto lift motor.  Attach lift motor to trailer with M2.6 x 6mm screws (qty 2).
 
 Push motor gear onto N20 12V 200rpm motor.  Add 300mm of wire with JST-XH connector. Secure to trailer with motor lock and M2.6 x 6mm screws (qty 2).
@@ -36,7 +36,7 @@ Attach bed at rear with M2.6 x 6mm screws.  Attach front of bed with M2.6 x 12mm
 
 <h3>Cab</h3>
 
-Add 100mm of wire with JST-XH connector to N20 12V 200rpm motor.  Secure to cab with motor lock and M2.6 x 6mm screw.
+Add 10 cm of wire with JST-XH connector to N20 12V 200rpm motor.  Secure to cab with motor lock and M2.6 x 6mm screw.
 Attach fenders with M2.6 x 6mm screws.
 
 <img src="https://github.com/swholmstead/DumpTruck/blob/main/pictures/IMG_3453.JPEG" alt="Skidsteer" width=600 height=400>
@@ -53,7 +53,7 @@ Insert drive train into cab and secure with M2.6 x 6mm screws.
 
 <img src="https://github.com/swholmstead/DumpTruck/blob/main/pictures/IMG_3461.JPEG" alt="Skidsteer" width=600 height=400>
 
-Attach led and led holders with 100mm of wire with JST-XH connector to cab.
+Attach led and led holders with 10 cm of wire with JST-XH connector to cab.
 
 <img src="https://github.com/swholmstead/DumpTruck/blob/main/pictures/IMG_3458.JPEG" alt="Skidsteer" width=600 height=400>
 
