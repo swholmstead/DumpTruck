@@ -24,4 +24,4 @@ Open DumpTruck_Bluepad.ino file and click right arrow on top tool bar to downloa
 * "A" button turns lights on/off.
 * "B" button executes "wiggle" function, moving motors and flashing lights.  If you have more than one vehicle, the button helps you
 identify which vehicle is paired with this controller.
-* Left bumper (L1 button) puts drive train in "low gear".  This makes it easier to attach a trailer or perform more precise movements.
+* Holding left bumper (L1 button) puts drive train in "low gear".  This makes it easier to attach a trailer or perform more precise movements.
