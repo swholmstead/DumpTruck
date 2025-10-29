@@ -10,7 +10,7 @@ Press in 6700-2RS bearing at front of trailer.
 
 <img src="https://github.com/swholmstead/DumpTruck/blob/main/pictures/IMG_3445.JPEG" alt="Skidsteer" width=600 height=400>
 
-Using soldering iron or heat press, insert M4 insert nuts (qty 2) into ONE of the trailer axle mounts.  This will be the drive side with gears.
+Using soldering iron or heat press, insert M4x4x5 insert nuts (qty 2) into ONE of the trailer axle mounts.  This will be the drive side with gears.
 These are where the 2 idler gears are attached.  Insert from the side AWAY from the bearings.
 
 <img src="https://github.com/swholmstead/DumpTruck/blob/main/pictures/IMG_3441.JPEG" alt="Skidsteer" width=600 height=400>
@@ -19,6 +19,7 @@ Firmly press 6700-2RS bearings into trailer axle mounts.
 
 <img src="https://github.com/swholmstead/DumpTruck/blob/main/pictures/IMG_3444.JPEG" alt="Skidsteer" width=600 height=400>
 
+Attach the 14L and 14R gears with M4 x 12mm screws (qty 2).
 Assemble the drive train by pushing rear axles through the trailer axle mounts with an axle gear and secure axles with M2.6 x 6mm screws.
 I recommend using M2.6 x 8mm screws to go through axle gear into rear axle pieces.
 
