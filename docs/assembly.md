@@ -10,7 +10,7 @@ Press in 6700-2RS bearing at front of trailer.
 
 <img src="https://github.com/swholmstead/DumpTruck/blob/main/pictures/IMG_3445.JPEG" alt="Skidsteer" width=600 height=400>
 
-Using soldering iron or heat press, insert M4x4x5 insert nuts (qty 2) into ONE of the trailer axle mounts.  This will be the drive side with gears.
+Using soldering iron or heat press, insert M4x4x5mm insert nuts (qty 2) into ONE of the trailer axle mounts.  This will be the drive side with gears.
 These are where the 2 idler gears are attached.  Insert from the side AWAY from the bearings.
 
 <img src="https://github.com/swholmstead/DumpTruck/blob/main/pictures/IMG_3441.JPEG" alt="Skidsteer" width=600 height=400>
